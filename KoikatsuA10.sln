@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KoikatsuA10", "KoikatsuA10.csproj", "{D3CE8AAE-6039-4D72-B523-C0DE9502AE9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Mono|Any CPU = Mono|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3CE8AAE-6039-4D72-B523-C0DE9502AE9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3CE8AAE-6039-4D72-B523-C0DE9502AE9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3CE8AAE-6039-4D72-B523-C0DE9502AE9F}.Mono|Any CPU.ActiveCfg = Mono|Any CPU
+		{D3CE8AAE-6039-4D72-B523-C0DE9502AE9F}.Mono|Any CPU.Build.0 = Mono|Any CPU
+		{D3CE8AAE-6039-4D72-B523-C0DE9502AE9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3CE8AAE-6039-4D72-B523-C0DE9502AE9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A17EE360-6281-4A30-B38A-4554AB66CA35}
+	EndGlobalSection
+EndGlobal
