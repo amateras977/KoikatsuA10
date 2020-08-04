@@ -11,7 +11,7 @@
 
 ## インストール
 
-- [Release](https://github.com/amateras977/A10Server/releases)から、最新のKoikatsuA10.dllを入手する
+- [Release](https://github.com/amateras977/KoikatsuA10/releases)から、最新のKoikatsuA10.dllを入手する
 - BepinEx(コイカツのインストールフォルダ直下のBepinEx)にKoikatsuA10.dllを置く
 - A10ServerとA10ピストンSAを起動した状態で、コイカツを起動
   - フリーHモードを起動して各種体位でピストンをすれば、A10ピストンSAが連動してくれる
