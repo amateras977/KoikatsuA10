@@ -8,6 +8,7 @@
 
 - [A10Server](https://github.com/amateras977/A10Server)をセットアップする
 - [BepinExプラグイン](https://github.com/BepInEx/BepInEx/wiki/Installation_jp) をインストールする
+  - Version v5.x系推奨
 
 ## インストール
 
