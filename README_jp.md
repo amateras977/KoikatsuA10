@@ -1,6 +1,8 @@
 # Koikatu A10 Plugin
 
-コイカツ!をA10ピストンSAと連動させるためのBepinExプラグインです
+コイカツ!を大人のおもちゃを連動させるBepinExプラグインです
+
+[対象デバイス](https://iostindex.com/?filter0ButtplugSupport=7)
 
 # 使い方
 
@@ -15,7 +17,7 @@
 - [Release](https://github.com/amateras977/KoikatsuA10/releases)から、最新のKoikatsuA10.dllを入手する
 - BepinEx(コイカツのインストールフォルダ直下のBepinEx)にKoikatsuA10.dllを置く
 - A10ServerとA10ピストンSAを起動した状態で、コイカツを起動
-  - フリーHモードを起動して各種体位でピストンをすれば、A10ピストンSAが連動してくれる
+  - フリーHモードを起動して各種体位でピストンをすれば、おもちゃ連動する
 
 # 備考
 
